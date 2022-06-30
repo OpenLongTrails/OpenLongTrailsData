@@ -1,6 +1,6 @@
 Theodore Solomons Trail
 
-Source: OpenStreetMap. The Theodore Solomons Trail ("TST") is relation 5549623 and is available at: https://www.openstreetmap.org/relation/5549623
+Source: OpenStreetMap. The Theodore Solomons Trail is relation 5549623 and is available at: https://www.openstreetmap.org/relation/5549623
 
 Method used to obtain this route data:
 

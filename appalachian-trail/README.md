@@ -1,6 +1,6 @@
 Appalachian Trail
 
-Source: OpenStreetMap. The Appalachian Trail ("AT") is relation 156553 and is available at: https://www.openstreetmap.org/relation/156553
+Source: OpenStreetMap. The Appalachian Trail is relation 156553 and is available at: https://www.openstreetmap.org/relation/156553
 
 Method used to obtain this route data:
 
